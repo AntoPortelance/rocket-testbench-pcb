@@ -21,7 +21,7 @@ My contributions include:
 The PCB operates within a full test bench system including:
 - embedded firmware (C/C++) for control and sequencing  
 - communication interfaces (UDP-based systems)  
-- supervision and data acquisition tools (Qt / Python)  
+- supervision and data acquisition tools (Qt)  
 
 ## Engineering Context
 This project was developed in a real test environment, with practical constraints related to:
